@@ -1,20 +1,20 @@
-# Vortek-IA
 
-Vortek-IA é uma Inteligência Artificial que interage com os usuários em um site básico. Ela foi criada para ser simples e fácil de usar, permitindo interações e respostas automáticas.
+## Como Usar
 
-## Tecnologias usadas
-- HTML
-- CSS
-- JavaScript
+1. Abra o `index.html` em um navegador.
+2. No modo **TREINAMENTO**, use o campo de texto para adicionar novos conhecimentos à IA.
+3. No modo **REAL**, interaja com a IA diretamente.
+4. Use os botões para ligar/desligar a IA conforme necessário no modo **TREINAMENTO**.
 
-## Como rodar o projeto
-1. Faça o download do repositório ou clone-o.
-2. Abra o arquivo `index.html` no seu navegador.
-3. Interaja com a IA no botão disponível na página.
+## Requisitos
 
-## Como contribuir
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
-4. Push para a branch (`git push origin minha-feature`).
-5. Crie um Pull Request.
+- Navegador moderno para rodar o sistema.
+- Internet para interações com o servidor de aprendizado, caso necessário.
+
+## Contribuições
+
+Sinta-se à vontade para contribuir com melhorias no código ou novas funcionalidades. Basta fazer um fork deste repositório, implementar suas mudanças e enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
