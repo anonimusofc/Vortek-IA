@@ -6,7 +6,7 @@ ia.initIA();
 
 document.getElementById('admin-settings').addEventListener('click', () => {
     const senha = prompt("Digite a senha para acessar as configurações exclusivas:");
-    if (senha === "SuaSenha123!") {
+    if (senha === "V0rtek@123") {
         alert("Acesso concedido! Redirecionando para configurações exclusivas...");
         window.location.href = "exclusive-settings.html"; // Redireciona para a página de configurações exclusivas
     } else {
