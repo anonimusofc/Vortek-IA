@@ -1,0 +1,13 @@
+{
+    "userId1": {
+      "theme": "dark",
+      "language": "en",
+      "interactionStyle": "casual"
+    },
+    "userId2": {
+      "theme": "light",
+      "language": "pt",
+      "interactionStyle": "formal"
+    }
+  }
+  

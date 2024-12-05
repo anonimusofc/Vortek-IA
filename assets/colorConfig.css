@@ -1,0 +1,40 @@
+/* colorConfig.css */
+body {
+    background-color: #121212;
+    color: white;
+  }
+  
+  .header, .footer {
+    background-color: #333;
+    color: white;
+  }
+  
+  .button {
+    background-color: #6200ee;
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #3700b3;
+  }
+  
+  /* Configuração do modo claro */
+  body.light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .header.light-mode, .footer.light-mode {
+    background-color: #f1f1f1;
+    color: black;
+  }
+  
+  .button.light-mode {
+    background-color: #6200ee;
+    color: white;
+  }
+  
+  button.light-mode:hover {
+    background-color: #3700b3;
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "rateLimit": 1000,
+    "authRequired": true,
+    "security": {
+      "encryption": "SHA-256",
+      "tokenExpiration": "24h"
+    }
+  }
+  

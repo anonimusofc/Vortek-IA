@@ -1,0 +1,18 @@
+{
+    "memory": [
+        {
+            "input": "oi",
+            "feedback": "positive"
+        },
+        {
+            "input": "qual é o seu nome?",
+            "feedback": "negative"
+        }
+    ],
+    "learnedPatterns": {
+        "oi": {
+            "positive": 3,
+            "negative": 1
+        }
+    }
+}

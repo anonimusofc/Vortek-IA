@@ -1,0 +1,16 @@
+{
+    "bots": [
+        {
+            "name": "Bot de Atendimento",
+            "type": "atendimento",
+            "id": "bot-123456789",
+            "status": "active"
+        },
+        {
+            "name": "Bot de Pesquisa",
+            "type": "pesquisa",
+            "id": "bot-987654321",
+            "status": "inactive"
+        }
+    ]
+}
